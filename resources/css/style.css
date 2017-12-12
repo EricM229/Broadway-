@@ -13,6 +13,7 @@ nav {
 }
 .header {
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+  background-repeat: no-repeat;
 }
 a {
   color: white;
@@ -38,6 +39,7 @@ p {
   font-weight: bold;
   color: white;
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+  background-repeat: no-repeat;
 }
 .footer {
   font-family: Helvetica;
